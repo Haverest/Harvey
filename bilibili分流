@@ -1,5 +1,4 @@
 # > bilibili
-USER-AGENT,bilibili*,bilibili
 DOMAIN-SUFFIX,bilibili.com,bilibili
 DOMAIN-SUFFIX,bilibili.com,bilibili
 DOMAIN,bilibili.com,bilibili
